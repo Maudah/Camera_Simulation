@@ -34,9 +34,8 @@ Would create the following image:
 ![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
 More images in this project:
 
-![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
-![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
-![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
-![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
-![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Picture1%20.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Emmition%20test.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Spot%20test%20plane4%20.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Recursive%20Test.jpg)  
 
