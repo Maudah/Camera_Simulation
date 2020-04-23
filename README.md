@@ -22,7 +22,7 @@ public void test() {
       new PointD3(-200, -200, 100),  0, 0.00001, 0.000005,new Vector(2, 2, -3)));
 		
 	
-		ImageWriter imageWriter = new ImageWriter("spot light test", 500, 500, 500, 500);
+		ImageWriter imageWriter = new ImageWriter("Point light test", 500, 500, 500, 500);
 		
 		Render render = new Render(scene,imageWriter);
 		
@@ -31,4 +31,12 @@ public void test() {
 	}
 ```
 Would create the following image:  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
+More images in this project:
+
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
+![](https://github.com/Maudah/Camera_Simulation/blob/master/Point%20light%20test.jpg)  
 
